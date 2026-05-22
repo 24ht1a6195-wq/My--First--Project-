@@ -10,7 +10,7 @@
 
                 <h1>Welcome to HTML</h1>
 
-                    <p>My name is Sk Afreen, from Chalapathi Institute of Technology, and I am doing my Web Development internship.</p>
+                    <p>My name is p sandhya, from Chalapathi Institute of Technology, and I am doing my Web Development internship.</p>
 
                         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="150">
 
