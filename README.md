@@ -15,7 +15,4 @@
                         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="150">
 
                             <p>This is a link to Google</p>
-                                <a href="https://www.google.com" target="_blank">Go to google</a>
-
-                                </body>
-                                </html>
+       
